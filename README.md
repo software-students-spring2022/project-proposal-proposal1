@@ -2,6 +2,7 @@
 
 1) Collaboration
 Shashanka Sharma
+Blake Rainey
 
 2) Project title
 MyCryptoPal
